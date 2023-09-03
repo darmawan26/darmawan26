@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darmawan26
 - 👀 I’m interested in Big Data, Machine Learning and Robotics
 - 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on ML
+- 💞️ I’m looking to collaborate on Machine Learning, AI or Web Dev
 - 📫 How to reach me ...
 
 <!---
